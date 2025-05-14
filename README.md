@@ -52,4 +52,3 @@ Designed and deployed a highly scalable 3-tier web application on AWS using Terr
 
 ---
 
-This description highlights your ability to design, deploy, and automate scalable architectures using **AWS** services and **Terraform**, which is an important skill for cloud engineers or DevOps roles.
